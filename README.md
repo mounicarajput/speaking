@@ -1,6 +1,9 @@
 ## Future Speaking Engagements
+* [Troy .NET User Group]() - March 15th
 * [JazzCon.Tech](http://jazzcon.tech/) - March 21st-23rd
+* [LaDev](https://www.meetup.com/ladevmi/events/248204469/) - Arpil 11th
 * [StirTrek](https://stirtrek.com/) - May 4th
+* [RevConf](http://revolutionconf.com/) - May 17th-18th
 * SUPER SECRET - ANNOUNCING SOON
 * [SyntaxCon](https://2018.syntaxcon.com/) - June 6th-8th
 
