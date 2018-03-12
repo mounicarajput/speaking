@@ -4,7 +4,7 @@
 * [LaDev](https://www.meetup.com/ladevmi/events/248204469/) - Arpil 11th
 * [StirTrek](https://stirtrek.com/) - May 4th
 * [RevConf](http://revolutionconf.com/) - May 17th-18th
-* PrairieDev Con - June 4th-6th
+* [Prairie DevCon](http://www.prairiedevcon.com/) - June 4th-6th
 * [SyntaxCon](https://2018.syntaxcon.com/) - June 6th-8th
 
 ## Past Speaking Engagements
