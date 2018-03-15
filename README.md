@@ -1,7 +1,8 @@
 ## Future Speaking Engagements
 * [Troy .NET User Group]() - March 15th
 * [JazzCon.Tech](http://jazzcon.tech/) - March 21st-23rd
-* [LaDev](https://www.meetup.com/ladevmi/events/248204469/) - Arpil 11th
+* [LaDev](https://www.meetup.com/ladevmi/events/248204469/) - April 11th
+* [Twin Cities Code Camp](https://twincitiescodecamp.com/#/home) - April 21st
 * [StirTrek](https://stirtrek.com/) - May 4th
 * [RevConf](http://revolutionconf.com/) - May 17th-18th
 * [Prairie DevCon](http://www.prairiedevcon.com/) - June 4th-6th
