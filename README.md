@@ -8,6 +8,7 @@
 * [SyntaxCon](https://2018.syntaxcon.com/) - June 6th-8th
 * Open Soure North
 * Beer City Code
+* KCDC
 * THAT Conference
 
 ## Past Speaking Engagements
