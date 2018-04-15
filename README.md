@@ -1,14 +1,14 @@
 ## Future 2018 Speaking Engagements
-* [Ann Arbor .NET]- April 17th
+* Ann Arbor .NET- April 17th
 * [Twin Cities Code Camp](https://twincitiescodecamp.com/#/home) - April 21st
 * [StirTrek](https://stirtrek.com/) - May 4th
 * [RevConf](http://revolutionconf.com/) - May 17th-18th
-* [Music City Tech]
+* Music City Tech
 * [Prairie DevCon](http://www.prairiedevcon.com/) - June 4th-6th
 * [SyntaxCon](https://2018.syntaxcon.com/) - June 6th-8th
-* [Open Soure North]
-* [Beer City Code]
-* [THAT Conference]
+* Open Soure North
+* Beer City Code
+* THAT Conference
 
 ## Past Speaking Engagements
 ### 2018
