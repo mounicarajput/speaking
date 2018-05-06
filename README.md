@@ -1,18 +1,18 @@
 ## Future 2018 Speaking Engagements
-* Ann Arbor .NET- April 17th
-* [Twin Cities Code Camp](https://twincitiescodecamp.com/#/home) - April 21st
-* [StirTrek](https://stirtrek.com/) - May 4th
 * [RevConf](http://revolutionconf.com/) - May 17th-18th
-* Music City Tech
+* [Music City Tech](http://www.musiccitytech.com/) - May 31st–June 2nd
 * [Prairie DevCon](http://www.prairiedevcon.com/) - June 4th-6th
 * [SyntaxCon](https://2018.syntaxcon.com/) - June 6th-8th
-* Open Soure North
-* Beer City Code
-* KCDC
-* THAT Conference
+* [Open Soure North](https://opensourcenorth.com/) - June 14th
+* [Beer City Code](http://beercitycode.com/) - June 22nd-23rd
+* [KCDC](http://www.kcdc.info/) - July 11th-13th 2018
+* [THAT Conference](https://www.thatconference.com/) - August 6th-8th
 
 ## Past Speaking Engagements
 ### 2018
+* [StirTrek](https://stirtrek.com/) - May 4th
+* [Twin Cities Code Camp](https://twincitiescodecamp.com/#/home) - April 21st
+* Ann Arbor .NET- April 17th
 * [LaDev](https://www.meetup.com/ladevmi/events/248204469/) - April 11th
 * [JazzCon.Tech](http://jazzcon.tech/) - March 21st-23rd
 * [Troy .NET User Group]() - March 15th
