@@ -1,6 +1,5 @@
 ## Future 2018 Speaking Engagements
-* [RevConf](http://revolutionconf.com/) - May 17th-18th
-* [Music City Tech](http://www.musiccitytech.com/) - May 31st–June 2nd
+* [Self.Conference](http://selfconference.org/) - August 17th-18th
 * [Prairie DevCon](http://www.prairiedevcon.com/) - June 4th-6th
 * [SyntaxCon](https://2018.syntaxcon.com/) - June 6th-8th
 * [Open Soure North](https://opensourcenorth.com/) - June 14th
@@ -10,6 +9,8 @@
 
 ## Past Speaking Engagements
 ### 2018
+* [Music City Tech](http://www.musiccitytech.com/) - May 31st–June 2nd
+* [RevConf](http://revolutionconf.com/) - May 17th-18th
 * [StirTrek](https://stirtrek.com/) - May 4th
 * [Twin Cities Code Camp](https://twincitiescodecamp.com/#/home) - April 21st
 * Ann Arbor .NET- April 17th
