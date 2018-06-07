@@ -1,7 +1,5 @@
 ## Future 2018 Speaking Engagements
 * [Self.Conference](http://selfconference.org/) - August 17th-18th
-* [Prairie DevCon](http://www.prairiedevcon.com/) - June 4th-6th
-* [SyntaxCon](https://2018.syntaxcon.com/) - June 6th-8th
 * [Open Soure North](https://opensourcenorth.com/) - June 14th
 * [Beer City Code](http://beercitycode.com/) - June 22nd-23rd
 * [KCDC](http://www.kcdc.info/) - July 11th-13th 2018
@@ -9,6 +7,8 @@
 
 ## Past Speaking Engagements
 ### 2018
+* [SyntaxCon](https://2018.syntaxcon.com/) - June 6th-8th
+* [Prairie DevCon](http://www.prairiedevcon.com/) - June 4th-6th
 * [Music City Tech](http://www.musiccitytech.com/) - May 31st–June 2nd
 * [RevConf](http://revolutionconf.com/) - May 17th-18th
 * [StirTrek](https://stirtrek.com/) - May 4th
