@@ -1,9 +1,10 @@
 ## Future 2018 Speaking Engagements
-* [Self.Conference](http://selfconference.org/) - August 17th-18th
 * [Open Soure North](https://opensourcenorth.com/) - June 14th
 * [Beer City Code](http://beercitycode.com/) - June 22nd-23rd
 * [KCDC](http://www.kcdc.info/) - July 11th-13th 2018
 * [THAT Conference](https://www.thatconference.com/) - August 6th-8th
+* [Code on the Beach](https://www.codeonthebeach.com/) - August 9th-12th
+* [Self.Conference](http://selfconference.org/) - August 17th-18th
 
 ## Past Speaking Engagements
 ### 2018
