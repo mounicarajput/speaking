@@ -1,9 +1,10 @@
 ## Future 2018 Speaking Engagements (Conferences)
-* [Beer City Code](http://beercitycode.com/) - June 22nd-23rd
 * [KCDC](http://www.kcdc.info/) - July 11th-13th 2018
 * [THAT Conference](https://www.thatconference.com/) - August 6th-8th
+* [MidwestJS](https://www.midwestjs.com) - August 8th
 * [Code on the Beach](https://www.codeonthebeach.com/) - August 9th-12th
 * [Self.Conference](http://selfconference.org/) - August 17th-18th
+* [VueJS London](https://vuejs.london/) - September 20th - 21st
 * [Dog Food Con](http://dogfoodcon.com/) - October 4th-5th
 * [Connect.Tech](http://connect.tech/) - October 17th-19th
 
@@ -11,6 +12,7 @@
 
 ## Past Speaking Engagements (Conferences)
 ### 2018
+* [Beer City Code](http://beercitycode.com/) - June 22nd-23rd
 * [Open Soure North](https://opensourcenorth.com/) - June 14th
 * [SyntaxCon](https://2018.syntaxcon.com/) - June 6th-8th
 * [Prairie DevCon](http://www.prairiedevcon.com/) - June 4th-6th
