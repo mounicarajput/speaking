@@ -1,14 +1,16 @@
 ## Future 2018 Speaking Engagements (Conferences)
-* [VueJS London](https://vuejs.london/) - September 20th - 21st
-* [Dog Food Con](http://dogfoodcon.com/) - October 4th-5th
-* [DevUp](http://devupconf.org/) - October 8th-10th
-* [Cream City Code](https://www.creamcitycode.com/) - October 13th
-* [Connect.Tech](http://connect.tech/) - October 17th-19th
+* [LibertyJS](https://libertyjs.com/) - November 2nd - 3rd
+* [VueConf TO](https://vuetoronto.com/) - November 14th - 16th
 
 ## Future 2018 Speaking Engagements (Meetups)
 
 ## Past Speaking Engagements (Conferences)
 ### 2018
+* [Connect.Tech](http://connect.tech/) - October 17th-19th
+* [Cream City Code](https://www.creamcitycode.com/) - October 13th
+* [DevUp](http://devupconf.org/) - October 8th-10th
+* [Dog Food Con](http://dogfoodcon.com/) - October 4th-5th
+* [VueJS Toronto](https://vuejs.london/) - September 20th - 21st
 * [Self.Conference](http://selfconference.org/) - August 17th-18th
 * [Code on the Beach](https://www.codeonthebeach.com/) - August 9th-12th
 * [MidwestJS](https://www.midwestjs.com) - August 8th
