@@ -1,11 +1,13 @@
 ## Future 2018 Speaking Engagements (Conferences)
-* [LibertyJS](https://libertyjs.com/) - November 2nd - 3rd
-* [VueConf TO](https://vuetoronto.com/) - November 14th - 16th
+That's a wrap!
 
 ## Future 2018 Speaking Engagements (Meetups)
+That's a wrap!
 
 ## Past Speaking Engagements (Conferences)
 ### 2018
+* [VueConf TO](https://vuetoronto.com/) - November 14th - 16th
+* [LibertyJS](https://libertyjs.com/) - November 2nd - 3rd
 * [Connect.Tech](http://connect.tech/) - October 17th-19th
 * [Cream City Code](https://www.creamcitycode.com/) - October 13th
 * [DevUp](http://devupconf.org/) - October 8th-10th
