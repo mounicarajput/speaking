@@ -1,3 +1,10 @@
+## Future 2019 Speaking Engagements (Conferences)
+* GDG DevFest St. Louis - January 26th
+* South Florida Code Camp - March 2nd
+* DevNexus - March 6th - 8th
+* Codestock - April 12th - 13th
+* Refactr - June 5th - 7th
+
 ## Future 2018 Speaking Engagements (Conferences)
 That's a wrap!
 
