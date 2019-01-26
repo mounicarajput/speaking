@@ -2,6 +2,7 @@
 * GDG DevFest St. Louis - January 26th
 * GDG DevFest KC - February 9th
 * DevNexus - March 6th - 8th
+* Orlando Code Camp - March 30th
 * JS Heroes - April 12th - 13th
 * UX Burlington - May 3rd
 * Refactr - June 5th - 7th
