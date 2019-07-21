@@ -4,7 +4,7 @@
 * Music City Tech - September 5th-7th
 * SECRET - October 4th-5th
 * Connect.Tech - October 16th-18th
-* DevReach - November 13th-15th
+* DevReach - October 21st-23rd
 
 ## Past Speaking Engagements (Conferences)
 ### 2019
