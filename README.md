@@ -1,11 +1,26 @@
 ## Future 2019 Speaking Engagements (Conferences)
+* Code on the Beach - July 25th - 28th
+* Angular Denver - August 1st & 2nd
+* Music City Tech - September 5th-7th
+* VueJS London - October 4th-5th
+* Connect.Tech - October 16th-18th
+
+## Past Speaking Engagements (Conferences)
+### 2019
 * GDG DevFest St. Louis - January 26th
 * GDG DevFest KC - February 9th
 * DevNexus - March 6th - 8th
+* Vue Conf US - March 25th-27th
 * Orlando Code Camp - March 30th
 * JS Heroes - April 12th - 13th
 * UX Burlington - May 3rd
-* Refactr - June 5th - 7th
+* KCDC - July 17th-19th
+
+## Past Speaking Engagements (Meetups)
+### 2019
+* Michigan .NET User Group
+* Lansing DevOps
+* Rocky Mountain Angular
 
 ## Future 2018 Speaking Engagements (Conferences)
 That's a wrap!
@@ -21,7 +36,7 @@ That's a wrap!
 * [Cream City Code](https://www.creamcitycode.com/) - October 13th
 * [DevUp](http://devupconf.org/) - October 8th-10th
 * [Dog Food Con](http://dogfoodcon.com/) - October 4th-5th
-* [VueJS Toronto](https://vuejs.london/) - September 20th - 21st
+* [VueJS London](https://vuejs.london/) - September 20th - 21st
 * [Self.Conference](http://selfconference.org/) - August 17th-18th
 * [Code on the Beach](https://www.codeonthebeach.com/) - August 9th-12th
 * [MidwestJS](https://www.midwestjs.com) - August 8th
