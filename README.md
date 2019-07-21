@@ -2,8 +2,9 @@
 * Code on the Beach - July 25th - 28th
 * Angular Denver - August 1st & 2nd
 * Music City Tech - September 5th-7th
-* VueJS London - October 4th-5th
+* SECRET - October 4th-5th
 * Connect.Tech - October 16th-18th
+* DevReach - November 13th-15th
 
 ## Past Speaking Engagements (Conferences)
 ### 2019
