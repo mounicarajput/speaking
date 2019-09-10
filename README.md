@@ -1,8 +1,6 @@
 ## Future 2019 Speaking Engagements (Conferences)
-* Code on the Beach - July 25th - 28th
-* Angular Denver - August 1st & 2nd
-* Music City Tech - September 5th-7th
-* SECRET - October 4th-5th
+* Michigan DevFest - September 21st
+* VueJS London - October 4th-5th
 * Connect.Tech - October 16th-18th
 * DevReach - October 21st-23rd
 
@@ -10,12 +8,17 @@
 ### 2019
 * GDG DevFest St. Louis - January 26th
 * GDG DevFest KC - February 9th
+* GDG DevFest Winnipeg
+* GDG Triangle DevFest
 * DevNexus - March 6th - 8th
 * Vue Conf US - March 25th-27th
 * Orlando Code Camp - March 30th
 * JS Heroes - April 12th - 13th
 * UX Burlington - May 3rd
 * KCDC - July 17th-19th
+* Code on the Beach - July 25th - 28th
+* Angular Denver - August 1st & 2nd
+* Music City Tech - September 5th-7th
 
 ## Past Speaking Engagements (Meetups)
 ### 2019
