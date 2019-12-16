@@ -1,11 +1,14 @@
-## Future 2019 Speaking Engagements (Conferences)
-* Michigan DevFest - September 21st
-* VueJS London - October 4th-5th
-* Connect.Tech - October 16th-18th
-* DevReach - October 21st-23rd
+## Future 2020 Speaking Engagements (Conferences)
+* Connectaha - March 27th
+* UI Architecture Conference - April 1st-3rd
+* REFACTR - April 22nd-24th
 
 ## Past Speaking Engagements (Conferences)
 ### 2019
+* DevReach - October 21st-23rd
+* Connect.Tech - October 16th-18th
+* VueJS London - October 4th-5th
+* GDG DevFest Michigan - September 21st
 * GDG DevFest St. Louis - January 26th
 * GDG DevFest KC - February 9th
 * GDG DevFest Winnipeg
@@ -25,12 +28,6 @@
 * Michigan .NET User Group
 * Lansing DevOps
 * Rocky Mountain Angular
-
-## Future 2018 Speaking Engagements (Conferences)
-That's a wrap!
-
-## Future 2018 Speaking Engagements (Meetups)
-That's a wrap!
 
 ## Past Speaking Engagements (Conferences)
 ### 2018
@@ -57,6 +54,7 @@ That's a wrap!
 * [JazzCon.Tech](http://jazzcon.tech/) - March 21st-23rd
 * [South Florida Code Camp](http://www.fladotnet.com/codecamp/Home.aspx/Home.aspx) - February 9th-11th
 
+## Past Speakin Engagements (Conferences)
 ### 2017
 * [Detroit.Code()](https://detroitcode.amegala.com/)
 * [Self.Conf](http://selfconference.org/)
