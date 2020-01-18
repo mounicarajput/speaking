@@ -1,11 +1,11 @@
 ## Future 2020 Speaking Engagements (Conferences)
 * Connectaha - March 27th
 * Orlando Code Camp - March 28th
+* ngConf - March 31st
 * UI Architecture Conference - April 1st-3rd
 * MagnoliaJS - April 15th-16th
 * Codestock - April 17th-18th
 * REFACTR - April 22nd-24th
-* ngConf - May 31st
 
 ## Past Speaking Engagements (Conferences)
 ### 2019
