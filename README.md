@@ -6,6 +6,7 @@
 * MagnoliaJS - April 15th-16th
 * Codestock - April 17th-18th
 * REFACTR - April 22nd-24th
+* YGLF Lithuania - May 14th-15th
 
 ## Past Speaking Engagements (Conferences)
 ### 2019
