@@ -1,4 +1,4 @@
-## Future 2020 Speaking Engagements (Conferences)
+## Upcoming 2020 Speaking Engagements (Conferences)
 * Connectaha - March 27th
 * Orlando Code Camp - March 28th
 * ngConf - March 31st
@@ -7,6 +7,12 @@
 * Codestock - April 17th-18th
 * REFACTR - April 22nd-24th
 * YGLF Lithuania - May 14th-15th
+
+## Upcoming 2020 Speaking Engagements (Meetups)
+* Denver Modern Web - May 6th
+
+## Past Speaking Engagements (Meetups)
+### 2020
 
 ## Past Speaking Engagements (Conferences)
 ### 2019
