@@ -1,4 +1,5 @@
 ## Upcoming 2020 Speaking Engagements (Conferences)
+* GDG DevFest Fremont - March 3rd
 * Connectaha - March 27th
 * Orlando Code Camp - March 28th
 * ngConf - March 31st
