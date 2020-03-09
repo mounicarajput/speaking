@@ -1,19 +1,20 @@
 ## Upcoming 2020 Speaking Engagements (Conferences)
-* GDG DevFest Fremont - March 3rd
 * Connectaha - March 27th
-* Orlando Code Camp - March 28th
 * ngConf - March 31st
-* UI Architecture Conference - April 1st-3rd
 * MagnoliaJS - April 15th-16th
 * Codestock - April 17th-18th
-* REFACTR - April 22nd-24th
 * YGLF Lithuania - May 14th-15th
+
+### Postponed
+* UI Architecture Conference
+* REFACTR
 
 ## Upcoming 2020 Speaking Engagements (Meetups)
 * Denver Modern Web - May 6th
 
 ## Past Speaking Engagements (Meetups)
 ### 2020
+* GDG DevFest Fremont - March 3rd
 
 ## Past Speaking Engagements (Conferences)
 ### 2019
