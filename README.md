@@ -1,6 +1,5 @@
 ## Upcoming 2020 Speaking Engagements (Conferences)
-* Connectaha - March 27th
-* ngConf - March 31st
+* ngConf - March 31st (remote)
 * MagnoliaJS - April 15th-16th
 * Codestock - April 17th-18th
 * YGLF Lithuania - May 14th-15th
