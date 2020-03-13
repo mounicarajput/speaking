@@ -1,7 +1,6 @@
 ## Upcoming 2020 Speaking Engagements (Conferences)
 * ngConf - March 31st (remote)
-* MagnoliaJS - April 15th-16th
-* Codestock - April 17th-18th
+* MagnoliaJS - April 15th-16th (remote)
 * YGLF Lithuania - May 14th-15th
 
 ### Postponed
