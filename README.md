@@ -1,20 +1,27 @@
-## Upcoming 2020 Speaking Engagements (Conferences)
-* ngConf - March 31st (remote)
-* MagnoliaJS - April 15th-16th (remote)
-* YGLF Lithuania - May 14th-15th
-
-### Postponed
-* UI Architecture Conference
-* REFACTR
-
-## Upcoming 2020 Speaking Engagements (Meetups)
-* Denver Modern Web - May 6th
-
-## Past Speaking Engagements (Meetups)
-### 2020
-* GDG DevFest Fremont - March 3rd
+## Upcoming 2022 Speaking Engagements (Conferences)
+* Code on the Beach - July 25th-July 27th
+* KCDC - August 8th-August 10th
+* Code PaLOUsa - August 17th-19th
+* DevReach - September 11th-14th
+* Momentum Developer Conference - October 20th
+* Modern Frontends Live! - November 17th-18th
 
 ## Past Speaking Engagements (Conferences)
+### 2022
+* DevNexus
+* CodeMash
+
+### 2021
+* ConnectTech
+* WITCon
+* KCDC
+* THAT Wisconsin
+
+### 2020
+* GDG DevFest Fremont - March 3rd
+* ngConf - March 31st (remote)
+* MagnoliaJS - April 15th-16th (remote)
+
 ### 2019
 * DevReach - October 21st-23rd
 * Connect.Tech - October 16th-18th
@@ -34,13 +41,6 @@
 * Angular Denver - August 1st & 2nd
 * Music City Tech - September 5th-7th
 
-## Past Speaking Engagements (Meetups)
-### 2019
-* Michigan .NET User Group
-* Lansing DevOps
-* Rocky Mountain Angular
-
-## Past Speaking Engagements (Conferences)
 ### 2018
 * [VueConf TO](https://vuetoronto.com/) - November 14th - 16th
 * [LibertyJS](https://libertyjs.com/) - November 2nd - 3rd
@@ -65,7 +65,6 @@
 * [JazzCon.Tech](http://jazzcon.tech/) - March 21st-23rd
 * [South Florida Code Camp](http://www.fladotnet.com/codecamp/Home.aspx/Home.aspx) - February 9th-11th
 
-## Past Speakin Engagements (Conferences)
 ### 2017
 * [Detroit.Code()](https://detroitcode.amegala.com/)
 * [Self.Conf](http://selfconference.org/)
@@ -74,6 +73,11 @@
 * [CodeMash 2017](http://www.codemash.org)
 
 ## Past Speaking Engagements (Meetups)
+### 2019
+* Michigan .NET User Group
+* Lansing DevOps
+* Rocky Mountain Angular
+
 ### 2018
 * Ann Arbor .NET- April 17th
 * [LaDev](https://www.meetup.com/ladevmi/events/248204469/) - April 11th
