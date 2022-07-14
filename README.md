@@ -9,11 +9,13 @@
 
 ## Past Speaking Engagements (Conferences)
 ### 2022
+* CodeStock
 * DevNexus
 * CodeMash
 
 ### 2021
 * ConnectTech
+* Atlanta Code Camp
 * WITCon
 * KCDC
 * THAT Wisconsin
