@@ -1,5 +1,6 @@
 ## Upcoming 2022 Speaking Engagements (Conferences)
 * Code on the Beach - July 25th-July 27th
+* Beer City Code - August 6th
 * KCDC - August 8th-August 10th
 * Code PaLOUsa - August 17th-19th
 * DevReach - September 11th-14th
