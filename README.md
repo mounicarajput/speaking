@@ -1,14 +1,15 @@
-## Upcoming 2022 Speaking Engagements (Conferences)
-* Code on the Beach - July 25th-July 27th
-* Beer City Code - August 6th
+## 🗓 Upcoming 2022 Speaking Engagements (Conferences)
 * KCDC - August 8th-August 10th
 * Code PaLOUsa - August 17th-19th
 * DevReach - September 11th-14th
 * Momentum Developer Conference - October 20th
+* Connect.Tech - November 7th-9th
 * Modern Frontends Live! - November 17th-18th
 
 ## Past Speaking Engagements (Conferences)
 ### 2022
+* Beer City Code - August 6th
+* Code on the Beach - July 25th-July 27th
 * CodeStock
 * DevNexus
 * CodeMash
