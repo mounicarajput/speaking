@@ -84,11 +84,23 @@
 
 ## Past Speaking Engagements (Meetups)
 ### 2019
+* Denver VueJS Meetup
 * Michigan .NET User Group
 * Lansing DevOps
 * Rocky Mountain Angular
 
 ### 2018
+* Ann Arbor Accessibility Group - July 30th
 * Ann Arbor .NET- April 17th
 * [LaDev](https://www.meetup.com/ladevmi/events/248204469/) - April 11th
 * [Troy .NET User Group]() - March 15th
+
+### 2017
+
+### 2016
+* Detroit JS Meetup
+
+### 2015
+* Detroit Ruby
+* Girl Develop It Ann Arbor
+* Refresh Detroit (2x)
