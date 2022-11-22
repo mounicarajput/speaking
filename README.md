@@ -1,11 +1,13 @@
 ## 🗓 Upcoming 2022 Speaking Engagements (Conferences)
-* Little Rock Tech Fest - October 13th, 14th
-* Momentum Developer Conference - October 20th
-* Connect.Tech - November 7th-9th
-* Modern Frontends Live! - November 17th-18th
+* AWS re:Invent - November 28th-December 2nd
 
 ## Past Speaking Engagements (Conferences)
 ### 2022
+* Modern Frontends Live! - November 17th-18th
+* GDG Windsor-Essex DevFest - November 12th
+* Connect.Tech - November 7th-9th
+* Momentum Developer Conference - October 20th
+* Little Rock Tech Fest - October 13th, 14th
 * DevReach - September 11th-14th
 * Code PaLOUsa - August 17th-19th
 * KCDC - August 8th-August 10th
@@ -16,11 +18,14 @@
 * CodeMash
 
 ### 2021
+* Momentum DevCon
+* .NET Vegas
 * ConnectTech
 * Atlanta Code Camp
 * WITCon
 * KCDC
 * THAT Wisconsin
+* STAR East
 
 ### 2020
 * GDG DevFest Fremont - March 3rd
