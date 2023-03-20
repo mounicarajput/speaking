@@ -1,8 +1,17 @@
-## 🗓 Upcoming 2022 Speaking Engagements (Conferences)
-* AWS re:Invent - November 28th-December 2nd
+## 🗓 Upcoming 2023 Speaking Engagements (Conferences)
+* Orlando Code Camp - March 25th
+* DevNexus - April 6th
+* Stir Trek - May 5th
+* Scenic City Summit - June 2nd
+* KCDC - June 21st-23rd
+
+## Past Speaking Engagements (Conferences)
+### 2023
+* CodeMash - January 9th-13th
 
 ## Past Speaking Engagements (Conferences)
 ### 2022
+* AWS re:Invent - November 28th-December 2nd
 * Modern Frontends Live! - November 17th-18th
 * GDG Windsor-Essex DevFest - November 12th
 * Connect.Tech - November 7th-9th
