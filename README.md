@@ -4,7 +4,7 @@
 * Chain React - May 17th-19th
 * Scenic City Summit - June 2nd
 * KCDC - June 21st-23rd
-* THAT Conference Wisconsin - July 25th-28TH
+* THAT Conference Wisconsin - July 25th-28th
 
 ## Past Speaking Engagements (Conferences)
 ### 2023
