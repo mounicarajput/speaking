@@ -1,14 +1,15 @@
 ## 🗓 Upcoming 2023 Speaking Engagements (Conferences)
-* DevNexus - April 6th
 * Stir Trek - May 5th
 * Chain React - May 17th-19th
 * Vueconf U.S. - May 24th-26th
 * Scenic City Summit - June 2nd
 * KCDC - June 21st-23rd
 * THAT Conference Wisconsin - July 25th-28th
+* DevReach - October
 
 ## Past Speaking Engagements (Conferences)
 ### 2023
+* DevNexus - April 6th
 * Orlando Code Camp - March 25th
 * CodeMash - January 9th-13th
 
