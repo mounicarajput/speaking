@@ -9,8 +9,10 @@
 
 ## Past Speaking Engagements (Conferences)
 ### 2023
+* DevOps Days Rockies - April 24th, 25th
 * DevNexus - April 6th
 * Orlando Code Camp - March 25th
+* HalfStack Phoenix - February 3rd
 * CodeMash - January 9th-13th
 
 ## Past Speaking Engagements (Conferences)
