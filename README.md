@@ -5,6 +5,7 @@
 * Scenic City Summit - June 2nd
 * KCDC - June 21st-23rd
 * THAT Conference Wisconsin - July 25th-28th
+* Beer City Code - August 4th, 5th
 * DevReach - October
 
 ## Past Speaking Engagements (Conferences)
