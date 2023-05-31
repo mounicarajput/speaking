@@ -1,5 +1,4 @@
 ## 🗓 Upcoming 2023 Speaking Engagements (Conferences)
-* Vueconf U.S. - May 24th-26th
 * Scenic City Summit - June 2nd
 * KCDC - June 21st-23rd
 * THAT Conference Wisconsin - July 25th-28th
@@ -9,6 +8,7 @@
 
 ## Past Speaking Engagements (Conferences)
 ### 2023
+* Vueconf U.S. - May 24th-26th
 * Chain React - May 17th-19th
 * Stir Trek - May 5th
 * DevOps Days Rockies - April 24th, 25th
