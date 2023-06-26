@@ -1,5 +1,4 @@
 ## 🗓 Upcoming 2023 Speaking Engagements (Conferences)
-* KCDC - June 21st-23rd
 * THAT Conference Wisconsin - July 25th-28th
 * Beer City Code - August 4th, 5th
 * DevReach - October
@@ -7,6 +6,7 @@
 
 ## Past Speaking Engagements (Conferences)
 ### 2023
+* KCDC - June 21st-23rd
 * Scenic City Summit - June 2nd
 * Vueconf U.S. - May 24th-26th
 * Chain React - May 17th-19th
