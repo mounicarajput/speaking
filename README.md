@@ -1,11 +1,13 @@
 ## 🗓 Upcoming 2023 Speaking Engagements (Conferences)
-* THAT Conference Wisconsin - July 25th-28th
-* Beer City Code - August 4th, 5th
+* Atlanta DevCon - September
+* Connect.Tech - October
 * DevReach - October
 * MagnoliaJS - October
 
 ## Past Speaking Engagements (Conferences)
 ### 2023
+* Beer City Code - August 4th, 5th
+* THAT Conference Wisconsin - July 25th-28th
 * KCDC - June 21st-23rd
 * Scenic City Summit - June 2nd
 * Vueconf U.S. - May 24th-26th
