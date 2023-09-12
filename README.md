@@ -1,5 +1,4 @@
 ## 🗓 Upcoming 2023 Speaking Engagements (Conferences)
-* Atlanta DevCon - September
 * Connect.Tech - October
 * DevReach - October
 * MagnoliaJS - October
