@@ -1,11 +1,10 @@
 ## 🗓 Upcoming 2023 Speaking Engagements (Conferences)
 * Connect.Tech - October
-* DevReach - October
-* MagnoliaJS - October
 * Michigan DevFest - December
 
 ## Past Speaking Engagements (Conferences)
 ### 2023
+* MagnoliaJS - October
 * Beer City Code - August 4th, 5th
 * THAT Conference Wisconsin - July 25th-28th
 * KCDC - June 21st-23rd
