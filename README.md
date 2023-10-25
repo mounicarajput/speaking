@@ -2,6 +2,7 @@
 * Connect.Tech - October
 * DevReach - October
 * MagnoliaJS - October
+* Michigan DevFest - December
 
 ## Past Speaking Engagements (Conferences)
 ### 2023
