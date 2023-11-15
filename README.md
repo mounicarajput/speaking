@@ -1,9 +1,13 @@
+## 🗓 Upcoming 2024 Speaking Engagements (Conferences)
+* CodeMash - January
+  
 ## 🗓 Upcoming 2023 Speaking Engagements (Conferences)
-* Connect.Tech - October
+* Google Developer Student Club - Western Michigan University - November 18th
 * Michigan DevFest - December
 
 ## Past Speaking Engagements (Conferences)
 ### 2023
+* Connect.Tech - October
 * MagnoliaJS - October
 * Beer City Code - August 4th, 5th
 * THAT Conference Wisconsin - July 25th-28th
