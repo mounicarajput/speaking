@@ -1,5 +1,6 @@
 ## 🗓 Upcoming 2025 Speaking Engagements (Conferences)
 * [cTENcf Birthday Bash Gurugram](https://community.cncf.io/events/details/cncf-cloud-native-gurugram-presents-ctencf-birthday-bash-gurugram/) - August
+* [Kubecon India](https://kccncind2025.sched.com/event/76c6d6e459f0e8d8fec68c762f74a641#sched-content) Keynote Speaker - August
 
 ## Past Speaking Engagements (Conferences)
 ### 2024
