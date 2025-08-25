@@ -1,5 +1,5 @@
-## 🗓 Upcoming 2024 Speaking Engagements (Conferences)
-* KCDC - June
+## 🗓 Upcoming 2025 Speaking Engagements (Conferences)
+* cTENcf Birthday Bash Gurugram [https://community.cncf.io/events/details/cncf-cloud-native-gurugram-presents-ctencf-birthday-bash-gurugram/] - August
 
 ## Past Speaking Engagements (Conferences)
 ### 2024
