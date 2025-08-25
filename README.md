@@ -7,7 +7,7 @@
 ## Past Speaking Engagements (Conferences)
 ### 2024
 * [Azure Developer Community Day 2024 LeipzigSessionize Event](https://azuredev.org/) - December
-* CloudX 2024 (https://cloudxconf.com/speakers/)- November 2024
+* [CloudX 2024](https://cloudxconf.com/speakers/)- November 2024
   
 ## Past Speaking Engagements (Conferences)
 ### 2023
